@@ -184,6 +184,14 @@ header{
 	padding: 5em 0;
 }
 
+.about h2{
+	color: red;
+}
+
+.about h2 span{
+	color: #000;
+}
+
 .lead {
 	font-family: "Segoe UI";
     font-size: 1.25rem;
@@ -222,6 +230,14 @@ header{
 .section-title {
     text-align: center;
     padding-bottom: 30px;
+}
+
+.section-title h2{
+	color: red;
+}
+
+.section-title span{
+	color: #fff;
 }
 
 @media (min-width: 1024px){
